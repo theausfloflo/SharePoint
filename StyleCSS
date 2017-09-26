@@ -1,0 +1,165 @@
+<style type="text/css">
+ 
+!-------------------------------------------
+! 0 - MIP NOT SUBMIT - WHITE  #FFFFFF
+! 1 - MIP STANDARD SUBMIT - GREEN #009900 
+! 2 - MIP EMERGENCY SUBMIT - RED #FF3300
+! 3 - MIP TAKEN INTO ACCOUNT - GREEN LIGHT #d1eac8 / GREEN #009900
+! 4 - MIP DONE 
+! 5 - SAD PURPLE #000099
+! 6 - SAP BLUE #000099
+! 7 - POTENTIAL GREY #D4D4CD
+! 8 - ALERT  BLACK #000000
+
+
+!TODAY HIGHLIGHT (blue)--------------------------------------
+.ms-acal-today{
+ BACKGROUND-COLOR: #DFECFF;
+}
+
+
+!WHITE--------------------------------------
+ .ms-acal-selcolor {
+ BACKGROUND-COLOR: #FFFFFF ;
+}
+.ms-acal-color {
+ BACKGROUND-COLOR: #FFFFFF ;
+}
+ .ms-acal-apanel-color {
+ BORDER-COLOR: #FFFFFF; BACKGROUND-COLOR: #FFFFFF;
+}
+.ms-acal-color div, .ms-acal-color div a, .ms-acal-apanel-color SPAN {color: #FFFFFF !important}
+
+.ms-acal-apanel-color SPAN {display:none !important}
+
+!COLOR 1 MIP STANDARD SUBMIT ----------------------------------
+
+.ms-acal-selcolor1 {
+ BACKGROUND-COLOR: #FFFFFF;
+}
+.ms-acal-color1 {
+ BORDER-COLOR: #009900; BACKGROUND-COLOR:#FFFFFF;
+}
+.ms-acal-apanel-color1 {
+ BORDER-COLOR: #009900; BACKGROUND-COLOR:#FFFFFF;
+}
+.ms-acal-color1 div, .ms-acal-color1 div a, .ms-acal-apanel-color1 SPAN {color: #009900 !important}
+
+
+!COLOR 2 MIP EMERGENCY SUBMIT --------------------------------
+
+.ms-acal-selcolor2 {
+ BACKGROUND-COLOR: #FFFFFF;
+}
+.ms-acal-color2 {
+ BORDER-COLOR: #FF3300; BACKGROUND-COLOR:#FFFFFF;
+}
+.ms-acal-apanel-color2 {
+ BORDER-COLOR: #FF3300; BACKGROUND-COLOR:#FFFFFF;
+}
+.ms-acal-color2 div, .ms-acal-color2 div a, .ms-acal-apanel-color2 SPAN {color: #FF3300 !important}
+
+
+
+!COLOR 3 MIP TAKEN INTO ACCOUNT----------------------------
+
+.ms-acal-selcolor3 {
+ BACKGROUND-COLOR: #d1eac8;
+}
+.ms-acal-color3 {
+ BORDER-COLOR: #009900; BACKGROUND-COLOR:#d1eac8;
+}
+.ms-acal-apanel-color3 {
+ BORDER-COLOR: #009900; BACKGROUND-COLOR:#d1eac8;
+}
+.ms-acal-color3 div, .ms-acal-color3 div a, .ms-acal-apanel-color3 SPAN {color: #009900 !important}
+
+
+!COLOR 4 MIP DEPLOYED --------------------------------------
+
+.ms-acal-selcolor4 {
+ BACKGROUND-COLOR: #009900;
+}
+.ms-acal-color4 {
+ BORDER-COLOR: #009900; BACKGROUND-COLOR:#009900
+}
+.ms-acal-apanel-color4 {
+ BORDER-COLOR: #009900; BACKGROUND-COLOR:#009900;
+}
+
+
+
+!COLOR 5 SAD --------------------------------------
+
+.ms-acal-selcolor5 {
+ BACKGROUND-COLOR: #CC0066;
+}
+.ms-acal-color5 {
+ BACKGROUND-COLOR: #CC0066;
+}
+.ms-acal-apanel-color5 {
+ BORDER-COLOR: #CC0066; BACKGROUND-COLOR:#CC0066;
+}
+
+
+!COLOR 6 SAP BLUE DARK--------------------------------------
+.ms-acal-selcolor6 {
+ BACKGROUND-COLOR: #000099;
+}
+.ms-acal-color6 {
+ BACKGROUND-COLOR: #000099;
+}
+.ms-acal-apanel-color6 {
+ BORDER-COLOR: #000099; BACKGROUND-COLOR: #000099; 
+}
+
+
+
+
+!COLOR 7 POTENTIAL--------------------------------------
+
+.ms-acal-selcolor7 {
+ BACKGROUND-COLOR: #D4D4CD;
+}
+.ms-acal-color7 {
+ BORDER-COLOR: #FFFFFF; BACKGROUND-COLOR:#D4D4CD;
+}
+.ms-acal-apanel-color7 {
+ BORDER-COLOR: #FFFFFF; BACKGROUND-COLOR:#D4D4CD;
+}
+
+
+
+
+!ALERT --------------------------------------
+
+.ms-acal-selcolor8 {
+ BACKGROUND-COLOR: #000000;
+}
+.ms-acal-color8 {
+ BACKGROUND-COLOR: #000000;
+}
+.ms-acal-apanel-color8 {
+ BORDER-COLOR: #000000; BACKGROUND-COLOR:#000000;
+}
+
+!NOT SUBMITTED --------------------------------------
+
+.ms-acal-selcolor9 {
+ BACKGROUND-COLOR: #FFFFFF;
+}
+.ms-acal-color9 {
+ BORDER-COLOR: #a5a5a4; BACKGROUND-COLOR:#FFFFFF;
+}
+.ms-acal-apanel-color9 {
+ BORDER-COLOR: #FFFFFF; BACKGROUND-COLOR:#FFFFFF;
+}
+.ms-acal-color9 div {color: #a5a5a4 !important}
+
+.ms-acal-color9 div a {color: #a5a5a4 !important} 
+
+.ms-acal-apanel-color9 SPAN {display:none !important}
+
+
+
+</style>
